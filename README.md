@@ -1,14 +1,14 @@
 # HackOnAmazon-Amazon Sustainable Shopping Experience
 
 <div align="center">
-  <img src="https://github.com/username/amazon-sustainable-shopping/raw/main/public/images/logo.png" alt="Amazon Sustainable Shopping Logo" width="200"/>
+  
+  ![Screenshot 2025-06-10 090944](https://github.com/user-attachments/assets/00688e6c-3344-414e-8f89-891546aa23de)
   <br>
   <h3>AI-powered eco-friendly shopping experience</h3>
   <p>Developed for the HackOnAmazon Challenge</p>
   
   <p>
-    <a href="#features">Features</a> •
-    <a href="#live-demo">Live Demo</a> •
+    <a href="#✨ Features">Features</a> •
     <a href="#installation">Installation</a> •
     <a href="#usage">Usage</a> •
     <a href="#architecture">Architecture</a> •
